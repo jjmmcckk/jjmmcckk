@@ -12,6 +12,7 @@ worked with geospatial software since 2019.
 
 | Project | What it shows |
 |---|---|
+| [Flight Log Analyzer](https://github.com/jjmmcckk/flight-log-analyzer) | Flight test reports from ArduPilot logs: attitude step response, QuadPlane transitions, before and after AUTOTUNE, and health checks against a test card. Demonstrated on a QuadPlane test card flown in ArduPilot SITL. |
 | [LiDAR Web Map](https://github.com/jjmmcckk/lidar-web-map) · [live demo](https://jjmmcckk.github.io/lidar-web-map/) | A LiDAR point cloud in interactive 3D with bare earth and surface models, height above ground, and QA layers, built with Python, React, TypeScript, MapLibre and deck.gl, with Cloud Optimized GeoTIFF downloads. |
 | [LiDAR QA Toolkit](https://github.com/jjmmcckk/lidar-qa-toolkit) | One command QA for LAS/LAZ point clouds: density against a target, coverage of the planned survey area, void and low density polygons, classification and noise, with an HTML report and GIS outputs. Tested in CI. |
 | [Geospatial AI Labs](https://github.com/jjmmcckk/Geospatial-AI-Labs) | Four graduate geospatial machine learning projects, run end to end with baselines: 93.3% aerial image classification with transfer learning, a Space2Vec location encoder that cuts error 20%, LSTM rainfall forecasting and spatial regression. |
